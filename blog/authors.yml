@@ -1,0 +1,29 @@
+dolivetree:
+  name: Diana Oliveira
+  title: Research @ Decipad
+  url: https://github.com/dolivetree
+  image_url: https://github.com/dolivetree.png
+
+dscape:
+  name: Nuno Job
+  title: CEO @ Decipad
+  url: https://github.com/dscape
+  image_url: https://github.com/dscape.png
+
+pgte:
+  name: Pedro Teixeira
+  title: CTO @ Decipad
+  url: https://github.com/pgte
+  image_url: https://github.com/pgte.png
+
+fabiosantoscode:
+  name: Fabio Santos
+  title: Language Engineer @ Decipad
+  url: https://github.com/fabiosantoscode
+  image_url: https://github.com/fabiosantoscode.png
+
+jeysal:
+  name: Tim Seckinger
+  title: Product Engineer @ Decipad
+  url: https://github.com/jeysal
+  image_url: https://github.com/jeysal.png
