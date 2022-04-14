@@ -42,7 +42,7 @@ For Financial planning and analysis models you often need to:
 - Calculate growth based on previous months
 - Find the point in your model where you break even
 
-You can achieve this using `lookup`, `previous`, and `next`.
+You can achieve this using `lookup` and `previous`.
 
 ```deci live
 Cashflow = {
